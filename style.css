@@ -244,6 +244,15 @@ body{
 
 }
 
+.mfc1{
+    height:57px ;
+    width:268px ;
+   color: #ffffff;
+    position: absolute;
+    bottom: 0;
+
+}
+
 .main-middle-bar{
     margin-bottom: 100px;
     height: 433px;
